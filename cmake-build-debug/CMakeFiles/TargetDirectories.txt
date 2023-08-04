@@ -1,0 +1,3 @@
+/Users/aditya/Documents/Spring2023/CMSC341/proj4/cmake-build-debug/CMakeFiles/proj4.dir
+/Users/aditya/Documents/Spring2023/CMSC341/proj4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aditya/Documents/Spring2023/CMSC341/proj4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
